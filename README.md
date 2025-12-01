@@ -14,7 +14,7 @@
 
 ---
 
-> All screenshots are stored in the `capture/` folder and displayed below for easy preview.
+> All screenshots are stored in the `Capture/` folder and displayed below for easy preview.
 
 ---
 
