@@ -58,7 +58,7 @@
 | Tool | Purpose |
 |------|--------|
 | **Power BI Desktop** | Build interactive dashboard |
-| **Excel / CSV** | Source HR data |
+| **CSV** | data |
 | **Power Query** | Data cleaning & transformation |
 | **DAX** | Calculated measures and KPIs |
 
