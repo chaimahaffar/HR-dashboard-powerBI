@@ -27,31 +27,28 @@
 - Key indicators: headcount, turnover, promotions, layoffs  
 
 <div align="center">
-  <img src="capture/home.png" alt="Home Page" width="80%">
+  <img src="Capture/home.png" alt="Home Page" width="80%">
 </div>
 
 ---
 
 ## 📋 Details Page
-- Detailed employee list  
 - Employee levels: Level 1 → Level 5  
-- Track promotions and layoffs  
-- Individual info: age, position, department, seniority  
+- Employee performance evaluation and working conditions  
+- Ratings by criteria    
+- Decisions: promotion, lay-off, retrenchment  
 
 <div align="center">
-  <img src="capture/details.png" alt="Details Page" width="80%">
+  <img src="Capture/Details.png" alt="Details Page" width="80%">
 </div>
 
 ---
 
 ## ⚡ Action Page
-- Employee performance evaluation and working conditions  
-- Ratings by criteria  
-- HR benefits and support during evaluations  
-- Decisions: promotion, lay-off, retrenchment  
+- Detailed employee list   
 
 <div align="center">
-  <img src="capture/action.png" alt="Action Page" width="80%">
+  <img src="Capture/action.png" alt="Action Page" width="80%">
 </div>
 
 ---
