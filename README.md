@@ -1,4 +1,4 @@
-<h1 align="center">📊 HR Dashboard – Power BI Portfolio</h1>
+<h1 align="center">📊 HR Dashboard – Power BI</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PowerBI-Dashboard-yellow?style=for-the-badge">
