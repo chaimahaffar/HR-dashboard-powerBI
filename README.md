@@ -23,8 +23,8 @@
 ## Home Page
 - Overview of the company  
 - Total number of employees  
-- Male/Female percentage  
-- Key indicators: headcount, turnover, promotions, layoffs  
+- Male/Female percentage
+- ..
 
 <div align="center">
   <img src="Capture/home.png" alt="Home Page" width="50%">
