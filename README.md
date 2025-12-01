@@ -27,7 +27,7 @@
 - Key indicators: headcount, turnover, promotions, layoffs  
 
 <div align="center">
-  <img src="captures/home.png" alt="Home Page" width="80%">
+  <img src="capture/home.png" alt="Home Page" width="80%">
 </div>
 
 ---
@@ -39,7 +39,7 @@
 - Individual info: age, position, department, seniority  
 
 <div align="center">
-  <img src="captures/details.png" alt="Details Page" width="80%">
+  <img src="capture/details.png" alt="Details Page" width="80%">
 </div>
 
 ---
@@ -51,7 +51,7 @@
 - Decisions: promotion, lay-off, retrenchment  
 
 <div align="center">
-  <img src="captures/action.png" alt="Action Page" width="80%">
+  <img src="capture/action.png" alt="Action Page" width="80%">
 </div>
 
 ---
@@ -61,7 +61,7 @@
 | Tool | Purpose |
 |------|--------|
 | **Power BI Desktop** | Build interactive dashboard |
-| **Excel** | Source HR data |
+| **Excel / CSV** | Source HR data |
 | **Power Query** | Data cleaning & transformation |
 | **DAX** | Calculated measures and KPIs |
 
@@ -80,18 +80,21 @@
 
 # 💾 Attached Data
 
-- The file `data.xlsx` contains all the data used in the dashboard.  
-- Place `data.xlsx` in the same folder as `dashboard.pbix` to ensure the dashboard works correctly.
+The project includes **two CSV datasets** used in the dashboard:  
+
+1. `HR Analytics Data.csv` – contains HR analytics metrics  
+2. `HR employee data.csv` – contains individual employee details  
+
+> Place these CSV files in the same folder as `dashboard.pbix` to ensure the dashboard works correctly.
 
 ---
 
 # 💾 How to Use
 
-1. Download `dashboard.pbix` and `data.xlsx`  
-2. Place `data.xlsx` in the same folder as the dashboard  
+1. Download `dashboard.pbix`, `HR Analytics Data.csv`, and `HR employee data.csv`  
+2. Place all files in the same folder  
 3. Open Power BI Desktop  
 4. Refresh data to view all metrics and visualizations  
 
 ---
-
 
