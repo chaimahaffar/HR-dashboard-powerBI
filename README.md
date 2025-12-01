@@ -20,35 +20,35 @@
 
 # 📊 Dashboard Pages with Screenshots
 
-## 🏠 Home Page
+## Home Page
 - Overview of the company  
 - Total number of employees  
 - Male/Female percentage  
 - Key indicators: headcount, turnover, promotions, layoffs  
 
 <div align="center">
-  <img src="Capture/home.png" alt="Home Page" width="80%">
+  <img src="Capture/home.png" alt="Home Page" width="50%">
 </div>
 
 ---
 
-## 📋 Details Page
+## Details Page
 - Employee levels: Level 1 → Level 5  
 - Employee performance evaluation and working conditions  
 - Ratings by criteria    
 - Decisions: promotion, lay-off, retrenchment  
 
 <div align="center">
-  <img src="Capture/Details.png" alt="Details Page" width="80%">
+  <img src="Capture/Details.png" alt="Details Page" width="50%">
 </div>
 
 ---
 
-## ⚡ Action Page
+## Action Page
 - Detailed employee list   
 
 <div align="center">
-  <img src="Capture/action.png" alt="Action Page" width="80%">
+  <img src="Capture/action.png" alt="Action Page" width="50%">
 </div>
 
 ---
