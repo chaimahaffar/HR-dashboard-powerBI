@@ -86,12 +86,4 @@ The project includes **two CSV datasets** used in the dashboard:
 
 ---
 
-#  How to Use
-
-1. Download `dashboard.pbix`, `HR Analytics Data.csv`, and `HR employee data.csv`  
-2. Place all files in the same folder  
-3. Open Power BI Desktop  
-4. Refresh data to view all metrics and visualizations  
-
----
 
