@@ -18,7 +18,7 @@
 
 ---
 
-# 📊 Dashboard Pages with Screenshots
+#  Dashboard Pages with Screenshots
 
 ## Home Page
 - Overview of the company  
@@ -64,7 +64,7 @@
 
 ---
 
-# 🚀 Key Features
+#  Key Features
 
 - Complete HR Dashboard  
 - Interactive visualizations for all pages (Home, Details, Action)  
@@ -75,18 +75,18 @@
 
 ---
 
-# 💾 Attached Data
+# Attached Data
 
 The project includes **two CSV datasets** used in the dashboard:  
 
-1. `HR Analytics Data.csv` – contains HR analytics metrics  
-2. `HR employee data.csv` – contains individual employee details  
+1. `HR Analytics Data.csv` 
+2. `HR employee data.csv`  
 
 > Place these CSV files in the same folder as `dashboard.pbix` to ensure the dashboard works correctly.
 
 ---
 
-# 💾 How to Use
+#  How to Use
 
 1. Download `dashboard.pbix`, `HR Analytics Data.csv`, and `HR employee data.csv`  
 2. Place all files in the same folder  
