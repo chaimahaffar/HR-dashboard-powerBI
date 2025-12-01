@@ -82,8 +82,6 @@ The project includes **two CSV datasets** used in the dashboard:
 1. `HR Analytics Data.csv` 
 2. `HR employee data.csv`  
 
-> Place these CSV files in the same folder as `dashboard.pbix` to ensure the dashboard works correctly.
-
 ---
 
 
